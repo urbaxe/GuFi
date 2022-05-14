@@ -1,2 +1,1 @@
-# GuFi
-A product from GuFi Enterprise.
+Read me
